@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="AspNetCore.HealthChecks.SqlServer" Version="6.0.1" />
-    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="6.0.2" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="7.0.0" />
     <PackageReference Include="Dapr.Client" Version="1.6.0" />
     <PackageReference Include="Dapr.Extensions.Configuration" Version="1.6.0" />
     <PackageReference Include="Duende.IdentityServer" Version="6.0.3" />
